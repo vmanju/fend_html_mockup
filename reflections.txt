@@ -1,8 +1,15 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
+HTML and DOM structure
+
   * What has been easy?
+Markups are easy, javascript programming paradigms are the ones I get tricked with.
+
   * What has been difficult?
+Javascript! Coming from Java programming background, JS seems hard.
+
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
+I don’t give up! I remind myself that I am stupid only because I don’t know how to do something yet. And that keeps me going. Also, I haven’t leveraged student forums so far - which can be valuable when I get stuck.
 
 ---
 
